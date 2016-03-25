@@ -1,0 +1,42 @@
+.header {
+	background: url("../images/header_bottom_bg.png");
+	min-height: 210px;
+}
+
+.center {
+	width: 984px;
+	margin: 0px auto;
+}
+
+.logo {
+	float: left;
+	margin-top: 50px;
+	width: 300px;
+	float: left;
+	h1 {
+		color: #F1EEE5;
+		font-size: 34px;
+		line-height: 42px;
+		font-weight: bold;
+		float: left;
+	}
+	p {
+		color: #787878;
+		border-left: 1px solid #787878;
+		margin-top: 15px;
+		padding-left: 10px;
+		float: right;
+	}
+}
+
+.center-right {
+	float: right;
+	background-color: #000;
+	height: 60px;
+	margin: 40px;
+	width: 468px;
+}
+
+h1 {
+	margin: 0px 0px 15px;
+}
